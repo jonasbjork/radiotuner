@@ -1,0 +1,264 @@
+ Studio 107.5        mms://live.alleredge.com/AE_StudioSE_Mid
+    107.1 Vinyl            mms://live.alleredge.com/AE_Vinyl_Mid
+    The Voice            mms://live.alleredge.com/AE_TheVoiceSE_Mid
+    Rockklassiker        mms://live.alleredge.com/AE_Rockklassiker_Mid
+    Mix MegaPol            mms://live.alleredge.com/AE_MixMegapol_Mid
+    NRJ                mms://mtg-wms.bahnhof.net/nrj/?MSWMExt=.asf
+    Rix FM            mms://mtg-wms.bahnhof.net/rixfm?MSWMExt=.asf
+    Lugna favoriter        mms://mtg-wms.bahnhof.net/lugnafavoriter/?MSWMExt=.asf
+    Bandit Sthlm        mms://mtg-wms.bahnhof.net/banditsthlm/?MSWMExt=.asf
+    Bandit Gbg            mms://mtg-wms.bahnhof.net/kanallokal/?MSWMExt=.asf
+    P1                      mms://wm-live.sr.se/SR-P1-High
+    P2                      mms://wm-live.sr.se/SR-P2-High
+    P2 Alltid Musik         mms://wm-live.sr.se/SR-P2Alltidmusik-High
+    Din gata                mms://wm-live.sr.se/SR-DinGata-High
+    P3                      mms://wm-live.sr.se/SR-P3-High
+    P3 Rockster             mms://wm-live.sr.se/SR-P3Rockster-High
+    P3 Star                 mms://wm-live.sr.se/SR-P3Star-High
+    P3 Street               mms://wm-live.sr.se/SR-P3Street-High
+    P3 Svea                 mms://wm-live.sr.se/SR-P3Svea-High
+    SR Metropol             mms://wm-live.sr.se/SR-Metropol-High
+    P4 med Radiosporten     mms://wm-live.sr.se/SR-Radiosporten-High
+    SR Bubbel               mms://wm-live.sr.se/SR-srbubbel-High
+    SR c                    mms://wm-live.sr.se/SR-SRc-High
+    SR Klassiskt            mms://wm-live.sr.se/SR-SRKlassiskt-High
+    SR Minnen               mms://wm-live.sr.se/SR-SRMinnen-High
+    Sisuradio               mms://wm-live.sr.se/SR-Sisuradio-High
+    SR Sapmi                mms://wm-live.sr.se/sr-sapmi-high
+    SR Atlas                mms://wm-live.sr.se/SR-SRAtlas-High
+    SR Världen              mms://wm-live.sr.se/SR-SRVarlden-High
+    SR Blekinge             mms://wm-live.sr.se/SR-Blekinge-High
+    SR Dalarna              mms://wm-live.sr.se/SR-Dalarna-High
+    SR Gävleborg            mms://wm-live.sr.se/SR-Gavleborg-High
+    SR Göteborg             mms://wm-live.sr.se/SR-Goteborg-High
+    SR Gotland              mms://wm-live.sr.se/SR-Gotland-High
+    SR Halland              mms://wm-live.sr.se/SR-Halland-High
+    SR Jönköping            mms://wm-live.sr.se/SR-Jonkoping-High
+    SR Jämtland             mms://wm-live.sr.se/SR-Jamtland-High
+    SR Kalmar               mms://wm-live.sr.se/SR-Kalmar-High
+    SR Kristianstad         mms://wm-live.sr.se/SR-Kristianstad-High
+    SR Kronoberg            mms://wm-live.sr.se/SR-Kronoberg-High
+    SR Malmö                mms://wm-live.sr.se/SR-Malmo-High
+    SR Norrbotten           mms://wm-live.sr.se/SR-Norrbotten-High
+    SR Örebro               mms://wm-live.sr.se/SR-Orebro-High
+    SR Östergötland         mms://wm-live.sr.se/SR-Ostergotland-High
+    SR Sjuhärad             mms://wm-live.sr.se/SR-Sjuharad-High
+    SR Skaraborg            mms://wm-live.sr.se/SR-Skaraborg-High
+    SR Sörmland             mms://wm-live.sr.se/SR-Sormland-High
+    SR Stockholm            mms://wm-live.sr.se/SR-Stockholm-High
+    SR Uppland              mms://wm-live.sr.se/SR-Uppland-High
+    SR Väst                 mms://wm-live.sr.se/SR-Vast-High
+    SR Västerbotten         mms://wm-live.sr.se/SR-Vasterbotten-High
+    SR Västernorrland       mms://wm-live.sr.se/SR-Vasternorrland-High
+    SR Värmland             mms://wm-live.sr.se/SR-Varmland-High
+    SR Västmanland          mms://wm-live.sr.se/SR-Vastmanland-High
+
+
+SBS Radio Ägda:
+===============
+* Mix Megapol		mms://streaming.sbsradio.se/03872_MixMegapol_mid?MSWMExt=.asf
+* Mix Megapol Borås	mms://streaming.sbsradio.se/03872_MixBoras_mid?MSWMExt=.asf
+* Mix Megapol GBG	mms://streaming.sbsradio.se/03872_MixGbg_mid?MSWMExt=.asf
+* Mix Megapol MLM	mms://streaming.sbsradio.se/03872_MixMmo_mid?MSWMExt=.asf
+* Radio 107.5		mms://streaming.sbsradio.se/03872_Studio_mid?MSWMExt=.asf
+* Rockklassiker		mms://streaming.sbsradio.se/03872_Rockklassiker_mid?MSWMExt=.asf
+* The Voice		mms://streaming.sbsradio.se/03872_TheVoice_mid?MSWMExt=.asf
+* Vinyl 107		mms://streaming.sbsradio.se/03872_Vinyl_mid?MSWMExt=.asf
+
+
+MTG Radio Ägda:
+===============
+* Bandit Gbg		mms://mtg-wms.bahnhof.net/kanallokal/?MSWMExt=.asf
+* Bandit Sthlm		mms://mtg-wms.bahnhof.net/banditsthlm/?MSWMExt=.asf
+* Lugna favoriter	mms://mtg-wms.bahnhof.net/lugnafavoriter/?MSWMExt=.asf
+* NRJ			mms://mtg-wms.bahnhof.net/nrj/?MSWMExt=.asf
+* Rix FM		mms://mtg-wms.bahnhof.net/rixfm?MSWMExt=.asf
+* Star FM		mms://mtg-wms.bahnhof.net/starfm?MSWMExt=.asf
+
+
+Närradio:
+=========
+* Cityradion Dalarna/Åre/Värmland	http://90.230.106.65:3335
+* Cityradion Gävle			http://83.227.155.6:1188
+* FM Österlen				http://www.fmosterlen.se/livepls.m3u
+* Folkradion 96,4 (Skutskär)		Internetradio tillfälligt nere (http://www.folkradio.se/)
+* Gamla Godingar (Öresund)		http://83.233.23.193/listen.pls
+* Gold 102,4 (Växjö)			http://gold24.xnk.nu:8080/listen.pls
+* Göteborgs Närradio 94,9		mms://media5.connection.se/radio3
+* Göteborgs Närradio 102,6		mms://media5.connection.se/radio7
+* Göteborgs Närradio 103,1		mms://media5.connection.se/radio5
+* Helsingborgs Närradio 		http://hnf.myip.org:85/broadwave.mp3?src=1&kbps=56&ref=
+* HitMix (Vellinge)			http://www.hitmix.se/webbradio/hitmix.pls
+* Höganäs Närradio			http://83.227.228.20:8000/listen.pls	
+* Kanon FM (Kalmar)			http://tty0.changeip.org:8000/listen.m3u
+* Karlstad Nya Radio 92,2		mms://213.180.74.122:5631/knr92
+* Kiss FM (Kristianstad)		http://radio.kiss916.se:8000/listen.pls	
+* KissRock (Knislinge)			http://radio.kissrock.se:9000/listen.pls
+* Lite FM (Trollhättan/Vänersborg)	http://www.litefm.se/live.m3u
+* Malmökanalen 89,2			mms://stream.malmokanalen.se/mnr?MSWMExt=.asf
+* MRS [Stockholm]			http://www.mrs.se/stream19050.m3u
+* Radio 88 Golden Hits (Partille)	Internetradio tillfälligt nere (http://www.radio88.nu)
+* Radio Active 103,9 (Ystad)		http://www.radioactive.se/livepls.m3u
+* Radio Bohuslän 88,7 (Uddevala)	http://887.radiobohuslan.se:8080/
+* Radio Bohuslän 100,5 (Stenungsund)	http://1005.radiobohuslan.se:8080/
+* Radio Bohuslän 107,5 (Lysekil)	http://1075.radiobohuslan.se:8080/
+* Radio Bohuslän Dance (Tjörn)		http://883.radiobohuslan.se:8080/
+* Radio Båstad				http://www.radiobastad.nu:8030/ (även 8020 & 8010)
+* Radio Eskilstuna			mms://streamer2.xmc.se/radioeskilstuna?MSWMExt=.asf
+* Radio Falköping			mms://83.223.14.91/fnf-live
+* Radio Iran On Air (sthlm, Persiska)	http://www.iranonair.com/live.pls
+* Radio Kinnekulle			http://62.80.192.171:8008/listen.pls
+* Radio Kiruna				http://193.45.227.222
+* Radio Krokom				http://www.radiokrokom.se/Webradio/webbradio_mediaspelare.m3u
+* Radio Lidingö				http://radiolidingo.mine.nu:8000/listen.pls
+* Radio Ljusdal				http://80.65.199.78:8002/listen.pls
+* Radio Nacka				http://user.tninet.se/~hyt673y/stream/radionacka/listen.m3u
+* Radio Plus (Mölndals Närradio)	http://radioplus.sytes.net:8000/listen.pls
+* Radio Roslagen			mms://media.rbcom.se:1023/radioroslagen?MSWMExt=.asf
+* Radio Siljan (Siljan-kommunerna)	mms://62.101.38.171/radio
+* Radio Sotenäs				mms://streamer2.xmc.se/radiosotenas?MSWMExt=.asf
+* Radio Trelleborg			mms://stream.radiotrelleborg.se/tbgnr?MSWMExt=.asf
+* Radio Tyresö				http://tb78-108-50-55.cust.teknikbyran.com:8000/listen.pls
+* Radio Viking (Ekerö)			mms://radioviking.se/radio
+* Radio Österåker			http://studio.osteraker.se:8000/live.mp3
+* Skånepartiet (Malmö)			mms://stream.netro.ca/scanianparty?MSWMExt=
+* Skärgårdsradion (Värmdö, sthlm)	http://homer.audire.se:8000/
+* Stockholms Närradio 88,0		http://radiostreamone.mine.nu:18000/
+* Stockholms Närradio 95,3		http://radiostreamone.mine.nu:18010/
+* Stockholms Närradio 101,1		http://radiostreamone.mine.nu:18020/
+* V97 - Radio Vallentuna		http://v97.amike.org:8000/listen.pls
+
+
+Studentradio:
+=============
+* K103 (Göteborg)		http://130.241.172.94:8000/listen.pls
+* Pite FM			mms://streamer.its.ltu.se/pitefm192?MSWMExt=.asf
+* Radio AF (Lund)		http://radio.af.lu.se/filer/radioaf.m3u
+* Radio Shore (Kalmar)		mms://194.47.161.6/RadioShore
+* Radio Sinus (Linköping)	http://web.telia.com/~u13604559/sinus.asx
+* Studentradion (Uppsala)	http://130.238.166.180:8000/listen.pls
+
+
+Spraydio (Helt önskebaserad):
+=============================
+* 90s Dance (Euro)	mms://live.alleredge.com/AE_Spraydio_90sdance
+* Chelsea (Indie)	mms://live.alleredge.com/AE_Spraydio_Chelsea
+* Detroit (Techno)	mms://live.alleredge.com/AE_Spraydio_Detroit
+* Krakow (Metal)	mms://live.alleredge.com/AE_Spraydio_Krakow
+* Manilla (Hiphop)	mms://live.alleredge.com/AE_Spraydio_Manilla
+* Motown (Soul)		mms://live.alleredge.com/AE_Spraydio_Motown
+* Nashville (Country)	mms://live.alleredge.com/AE_Spraydio_Nashville
+* Piccadilly (80-tal)	mms://live.alleredge.com/AE_Spraydio_Piccadilly
+* Santa Cruz (Punk)	mms://live.alleredge.com/AE_Spraydio_Santacruz
+* Seattle (Alt. Rock)	mms://live.alleredge.com/AE_Spraydio_Seattle
+* Studio 54 (Disco)	mms://live.alleredge.com/AE_Spraydio_Studio54
+* Visby (Pop)		mms://live.alleredge.com/AE_Spraydio_Visby
+
+
+Blandade Svenska:
+===============
+* Crossnet		mms://wm-live.crossnet.net/crossnetflow
+* Dagnys Jukebox	http://streaming.nordblommedia.se:8000/listen.pls
+* Dansbandsdax		mms://wm7.spacialnet.com/dansbandsdax
+* Dansbandskanalen	mms://streamer2.xmc.se/Dansbandskanalen?MSWMExt=.asf
+* EastFM		mms://www.eastfm.se/eastfm
+* Favorit 102.6		mms://streamer2.xmc.se/favorit?MSWMExt=.asf
+* Favorit 103.9		mms://streamer2.xmc.se/Love?MSWMExt=.asf
+* Favorit 104.7		mms://streamer1.xmc.se/favorit-dk?MSWMExt=.asf
+* Guld 106.6		mms://qstream-live.qbrick.com/05113live
+* Johns Radio		http://streaming.mediazon.se:8030/listen.pls
+* Kustradion		mms://83.133.64.14/kustradioen
+* NERadio International	http://listen.neradio.fm/listen.pls
+* NERadio Nonstop No DJ	http://www.neradio.fm/listen.pls
+* NERadio Sweden	http://www.neradio.se/listen.pls
+* OneFM			http://217.198.148.101
+* Playdio		http://www.playdio.se/bredband.pls
+* Radio Live		http://www.radiolive.se/lyssna/?x=RadioLive.pls
+* Radiobus		http://serv.radiobus.se:3745/listen.pls
+* Radioseven		http://www.radioseven.se/128.pls
+* Refugen		mms://qstream-live.qbrick.com/06912live_refugen
+* Soundic Radio		http://www.soundicradio.com/listen.pls
+* Valhalla Radio	http://fosterland.mine.nu:8000/listen.pls
+
+
+Soma FM (Internationell):
+=========================
+(För en förklaring på vad kanalerna spelar föreslås ett besök på http://somafm.com )
+* Beat Blender			http://somafm.com/beatblender.pls
+* Boot Liquor			http://somafm.com/bootliquor.pls
+* Christmas Lounge		http://somafm.com/christmas.pls
+* cliqhop idm			http://somafm.com/cliqhop.pls
+* Digitalis			http://somafm.com/digitalis.pls
+* Doomed			http://somafm.com/doomed.pls
+* Drone Zone			http://somafm.com/dronezone.pls
+* Groove Salad			http://somafm.com/groovesalad.pls
+* Illinois Street Lounge	http://somafm.com/illstreet.pls
+* indie pop rocks		http://somafm.com/indiepop.pls
+* Lush				http://somafm.com/lush.pls
+* Secret Agent			http://somafm.com/secretagent.pls
+* Sonic Universe		http://somafm.com/sonicuniverse.pls
+* Space Station Soma		http://somafm.com/spacestation.pls
+* Tag's Trip			http://somafm.com/tags.pls
+* Xmas in Frisko		http://somafm.com/xmasinfrisko.pls
+
+
+Sky.FM (Internationell):
+========================
+* All Hit 70s			http://www.sky.fm/mp3/hit70s.pls
+* Alternative Rock		http://www.sky.fm/mp3/altrock.pls
+* Beatles Tribute		http://www.sky.fm/mp3/beatles.pls
+* Best of the 80s		http://www.sky.fm/mp3/the80s.pls
+* Bossa Nova Jazz		http://www.sky.fm/mp3/bossanova.pls
+* Classic Rap			http://www.sky.fm/mp3/classicrap.pls
+* Classic Rock			http://www.sky.fm/mp3/classicrock.pls
+* Classical Guitar		http://www.sky.fm/mp3/guitar.pls
+* Contemporary Christian	http://www.sky.fm/mp3/christian.pls
+* Country			http://www.sky.fm/mp3/country.pls
+* DaTempo Lounge		http://www.sky.fm/mp3/datempolounge.pls
+* Indie Rock			http://www.sky.fm/mp3/indierock.pls
+* Love Music			http://www.sky.fm/mp3/lovemusic.pls
+* Modern Jazz			http://www.sky.fm/mp3/jazz.pls
+* Mostly Classical		http://www.sky.fm/mp3/classical.pls
+* New Age			http://www.sky.fm/mp3/newage.pls
+* Oldies			http://www.sky.fm/mp3/oldies.pls
+* Piano Jazz			http://www.sky.fm/mp3/pianojazz.pls
+* Roots Reggae			http://www.sky.fm/mp3/rootsreggae.pls
+* Salsa				http://www.sky.fm/mp3/salsa.pls
+* Simply Soundtracks		http://www.sky.fm/mp3/soundtracks.pls
+* Smooth Jazz			http://www.sky.fm/mp3/smoothjazz.pls
+* Smooth Jazz Uptempo		http://www.sky.fm/mp3/uptemposmoothjazz.pls
+* Solo Piano			http://www.sky.fm/mp3/solopiano.pls
+* Top Hits Music		http://www.sky.fm/mp3/tophits.pls
+* Urban Jamz			http://www.sky.fm/mp3/urbanjamz.pls
+* World Music			http://www.sky.fm/mp3/world.pls
+
+
+DI.FM (Internationell):
+=======================
+* Ambient		http://www.di.fm/mp3/ambient.pls
+* Breaks		http://www.di.fm/mp3/breaks.pls
+* Chillout		http://www.di.fm/mp3/chillout.pls
+* DJ Mixes		http://www.di.fm/mp3/djmixes.pls
+* Drum 'n' Bass		http://www.di.fm/mp3/drumandbass.pls
+* Electro House		http://www.di.fm/mp3/electro.pls
+* Euro Dance		http://www.di.fm/mp3/eurodance.pls
+* Exposure NYC		http://www.di.fm/mp3/exposurenyc.pls
+* Funky House		http://www.di.fm/mp3/funkyhouse.pls
+* Future Synthpop	http://www.di.fm/mp3/futuresynthpop.pls
+* Gabber		http://www.di.fm/mp3/gabber.pls
+* Goa-Psy Trance	http://www.di.fm/mp3/goapsy.pls
+* Hard Core		http://www.di.fm/mp3/hardcore.pls
+* Hard Dance		http://www.di.fm/mp3/harddance.pls
+* Hardstyle		http://www.di.fm/mp3/hardstyle.pls
+* House			http://www.di.fm/mp3/house.pls
+* Lounge		http://www.di.fm/mp3/lounge.pls
+* Minimal		http://www.di.fm/mp3/minimal.pls
+* Oldschool Electronica	http://www.di.fm/mp3/classictechno.pls
+* Progressive		http://www.di.fm/mp3/progressive.pls
+* Soulful House		http://www.di.fm/mp3/soulfulhouse.pls
+* Techno		http://www.di.fm/mp3/techno.pls
+* Trance		http://www.di.fm/mp3/trance.pls
+* Tribal House		http://www.di.fm/mp3/tribalhouse.pls
+* Vocal Trance		http://www.di.fm/mp3/vocaltrance.pls
+
+

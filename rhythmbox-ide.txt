@@ -1,0 +1,19 @@
+
+FILEN -> /home/jonas/.local/share/rhythmbox/rhythmdb.xml
+
+  <entry type="iradio">
+    <title>Absolute Classic Rock (Modem)</title>
+    <genre>Rock'n'Roll</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://network.absoluteradio.co.uk/core/audio/ogg/live.pls?service=vc</location>
+    <date>0</date>
+    <mimetype>application/octet-stream</mimetype>
+    <mb-trackid></mb-trackid>
+    <mb-artistid></mb-artistid>
+    <mb-albumid></mb-albumid>
+    <mb-albumartistid></mb-albumartistid>
+    <mb-artistsortname></mb-artistsortname>
+  </entry>
+
+
